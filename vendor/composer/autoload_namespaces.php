@@ -6,4 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Snowfire\\Beautymail\\' => array($vendorDir . '/snowfire/beautymail/src'),
 );

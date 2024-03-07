@@ -335,6 +335,7 @@ src="https://www.facebook.com/tr?id=691407819506168&ev=PageView&noscript=1"
             <!--footer bottom end-->
         </footer>
 
+
     <script src="assets/js/vendors/jquery-3.6.0.min.js"></script>
     <script src="assets/js/vendors/bootstrap.bundle.min.js"></script>
     <script src="assets/js/vendors/swiper-bundle.min.js"></script>
