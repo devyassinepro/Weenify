@@ -37,3 +37,12 @@ Route::get('/TermsandConditions', function () {
 Route::get('/shopify', function () {
     return redirect('https://shopify.pxf.io/MmW3NY');
 });
+
+Route::get('/login', function () {
+    return redirect('/');
+});
+
+Route::get('/register', function () {
+    return redirect('/');
+});
+
