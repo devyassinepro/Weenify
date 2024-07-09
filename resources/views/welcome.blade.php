@@ -8,7 +8,7 @@
                             <h1 class="fw-bold display-5">Track Top Winning Products in Real-Time</h1>
                             <p class="lead">Time is Money: Trust Us to Find the Winning Products</p>
                             <div class="action-btn mt-5 align-items-center d-block d-sm-flex d-lg-flex d-md-flex">
-                                <a href="/register" class="btn btn-primary me-3">Start Free Trial</a>
+                                <a href="https://app.weenify.io/register" class="btn btn-primary me-3">Start Free Trial</a>
                                 <a href="https://www.youtube.com/watch?v=TZkyCvcSkBo" class="text-decoration-none popup-youtube d-inline-flex align-items-center watch-now-btn mt-3 mt-lg-0 mt-md-0"> <i
                                         class="fas fa-play"></i> Watch Demo </a>
                             </div>
@@ -134,7 +134,7 @@
                                 <p>Explore an Extensive List of Trending Products and Stores Tracked Across Tens of Thousands of Retailers, Providing You with a Wealth of Unlimited Ideas.</p>
                             </div>
                             <div class="mt-auto">
-                                <a href="/register" class="btn btn-outline-primary btn-sm">Start For Free</a>
+                                <a href="https://app.weenify.io/register" class="btn btn-outline-primary btn-sm">Start For Free</a>
                             </div>
                             <div class="cta-img position-absolute right-0 bottom-0">
                                 <img src="assets/img/cta-img-1.png" alt="cta img" class="img-fluid">
@@ -148,7 +148,7 @@
                                 <p>Supercharge Your Sales Tracking: Add Stores and Products to the Sales Tracker to Monitor Performance Over Time, Track Sales, and Uncover the Next Big Opportunity Ahead of the Competition.</p>
                             </div>
                             <div class="mt-auto">
-                                <a href="/register" class="btn btn-outline-primary btn-sm">Start For Free</a>
+                                <a href="https://app.weenify.io/register" class="btn btn-outline-primary btn-sm">Start For Free</a>
                             </div>
                             <div class="cta-img position-absolute right-0 bottom-0">
                                 <img src="assets/img/cta-img-2.png" alt="cta img" class="img-fluid">
@@ -681,7 +681,7 @@
                                     <!-- <p>We can help you to create your dream website for better business revenue.</p> -->
                                 </div>
                                 <div class="form-block-banner mw-60 m-auto mt-5">
-                                    <a href="/register" class="btn btn-primary">Start Free Trial</a>
+                                    <a href="https://app.weenify.io/register" class="btn btn-primary">Start Free Trial</a>
                                     <a href="https://www.youtube.com/watch?v=TZkyCvcSkBo" class="text-decoration-none popup-youtube d-inline-flex align-items-center watch-now-btn ms-lg-3 ms-md-3 mt-3 mt-lg-0"> <i
                                             class="fas fa-play"></i> Watch Demo </a>
                                 </div>

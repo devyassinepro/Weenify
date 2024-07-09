@@ -65,7 +65,7 @@
                                     <!-- <li><i class="fas fa-circle fa-2xs text-warning me-2"></i> Every Minute</li> -->
                                 </ul>
                             </div>
-                            <a href="/login" class="btn btn-outline-primary mt-2">{{ __('Start Free Trial') }}</a>
+                            <a href="/https://app.weenify.io/login" class="btn btn-outline-primary mt-2">{{ __('Start Free Trial') }}</a>
 
                             <!--pattern start-->
                             <div class="dot-shape-bg position-absolute z--1 left--40 bottom--40">

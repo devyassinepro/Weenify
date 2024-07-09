@@ -147,8 +147,9 @@
                             <div class="tt-theme-light" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Light"><i class="flaticon-sun-1 fs-lg"></i></div>
                             <div class="tt-theme-dark" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Dark"><i class="flaticon-moon-1 fs-lg"></i></div>
                         </a> 
-                        <a href="/login" class="btn btn-link text-decoration-none me-2">Sign In</a>
-                        <a href="/register" class="btn btn-primary">Get Started</a>
+                        <a href="https://app.weenify.io/login" class="btn btn-link text-decoration-none me-2">Sign In</a>
+                        <a href="https://app.weenify.io/register" class="btn btn-primary">Get Started</a>
+                     
                     </div>
                     @endguest
 
@@ -177,8 +178,8 @@
                             <li><a href="/contact" class="nav-link">{{ __('Contact') }}</a></li>
                     </ul>
                     <div class="action-btns mt-4 ps-3">
-                        <a href="/login" class="btn btn-outline-primary me-2">Sign In</a>
-                        <a href="/register" class="btn btn-primary">Get Started</a>
+                        <a href="https://app.weenify.io/login" class="btn btn-outline-primary me-2">Sign In</a>
+                        <a href="https://app.weenify.io/register" class="btn btn-primary">Get Started</a>
                     </div>
                     @else
 
@@ -278,7 +279,7 @@
                     <div class="row justify-content-between align-items-center">
                         <div class="col-md-7 col-lg-7">
                             <div class="copyright-text">
-                                <p class="mb-lg-0 mb-md-0">&copy; 2023 Weenify Rights Reserved. <a href="https://weenify.io/" class="text-decoration-none">Weenify</a></p>
+                                <p class="mb-lg-0 mb-md-0">&copy; 2024 Weenify Rights Reserved. <a href="https://weenify.io/" class="text-decoration-none">Weenify</a></p>
                             </div>
                         </div>
                         <div class="col-md-4 col-lg-4">
